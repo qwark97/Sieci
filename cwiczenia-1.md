@@ -34,5 +34,5 @@ aby załączyć obrazek
 
 Komendy
 -------
-|Do wlaczenia karty|ifup <nazwa>|
-|Nazwa karty|nmcli device show|
+| Do wlaczenia karty | ifup <nazwa> |
+| Nazwa karty | nmcli device show |
