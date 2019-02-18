@@ -31,3 +31,8 @@ aby załączyć obrazek
 
 ![alt schemat](images/my-network-schema.png)
 ```
+
+Komendy
+-------
+|Do wlaczenia karty|ifup <nazwa>|
+|Nazwa karty|nmcli device show|
