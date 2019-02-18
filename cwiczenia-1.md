@@ -33,7 +33,6 @@ aby załączyć obrazek
 ```
 
 Komendy
--------
-| ------------- |:-------------:|
-| Do wlaczenia karty | ifup <nazwa> |
+
+| Do wlaczenia karty | ifup <nazwa> |\n
 | Nazwa karty | nmcli device show |
