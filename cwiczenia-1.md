@@ -27,7 +27,7 @@ Schemat sieci
 aby załączyć obrazek 
 
 ```markdown
-![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![alt schemat]https://www.obrazy-xxl.pl/webshop/NEWPRINTS/Wydrukowany-obraz-El-Grump--elgrump-120x80_0.jpg![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 ![alt schemat](images/my-network-schema.png)
 ```
