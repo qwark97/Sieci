@@ -27,7 +27,7 @@ Schemat sieci
 aby załączyć obrazek 
 
 ```markdown
-![alt schemat](https://www.obrazy-xxl.pl/webshop/NEWPRINTS/Wydrukowany-obraz-El-Grump--elgrump-120x80_0.jpg)
+![alt schemat](https://github.com/qwark97/Sieci/blob/master/pics/tapeta.jpg)
 
 ```
 
