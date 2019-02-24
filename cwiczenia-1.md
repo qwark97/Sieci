@@ -26,11 +26,8 @@ Schemat sieci
 
 aby załączyć obrazek 
 
-```markdown
-![tapeta](https://user-images.githubusercontent.com/37438072/53299737-ad695500-383e-11e9-98da-6dcd964298dc.jpg)
+![39607](https://user-images.githubusercontent.com/37438072/53299752-1cdf4480-383f-11e9-8ab4-f59d61ecec51.jpg)
 
-
-```
 
 
 | Komenda | Znaczenie  
