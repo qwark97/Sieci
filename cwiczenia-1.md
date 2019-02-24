@@ -27,7 +27,8 @@ Schemat sieci
 aby załączyć obrazek 
 
 ```markdown
-!(alt schemat)(https://github.com/qwark97/Sieci/blob/master/pics/tapeta.jpg?raw=true)
+![tapeta](https://user-images.githubusercontent.com/37438072/53299737-ad695500-383e-11e9-98da-6dcd964298dc.jpg)
+
 
 ```
 
