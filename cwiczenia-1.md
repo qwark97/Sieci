@@ -32,7 +32,11 @@ aby załączyć obrazek
 ![alt schemat](images/my-network-schema.png)
 ```
 
-Komendy
+
+| Komenda | Znaczenie  
+| ------------- |:-------------:| 
+| nazwa      | linux | 
+| program (parametry sieci)      | nie wiem |
 
 | Do wlaczenia karty - ifup <nazwa> 
 | Nazwa karty - nmcli device show 
