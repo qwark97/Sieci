@@ -35,8 +35,6 @@ aby załączyć obrazek
 
 | Komenda | Znaczenie  
 | ------------- |:-------------:| 
-| nazwa      | linux | 
-| program (parametry sieci)      | nie wiem |
+| ifup <nazwa>  |  Do wlaczenia karty | 
+| nmcli device show | Nazwa karty |
 
-| Do wlaczenia karty - ifup <nazwa> 
-| Nazwa karty - nmcli device show 
