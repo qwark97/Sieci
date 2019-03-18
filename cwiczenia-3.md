@@ -20,6 +20,14 @@ Ustawianie parametrów sieci ip
     * pokaż adresy dla konkretnego interfejsu
      
 
+podstawowe komendy 
+-------------------------
+|  polecenie   | opis  |
+| -------------| :-----|
+| ifup <nazwa>  |  Do wlaczenia karty | 
+| ifup <nazwa>  |  Do wylaczenia karty | 
+| nmcli device show | Nazwa karty |
+
 
 ip 
 -------------------------
