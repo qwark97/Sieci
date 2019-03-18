@@ -78,3 +78,11 @@ Zadanie
 
 ![zadanie 3](cwiczenia3.svg)
 
+## Komentarz
+po wypełnieniu poleceń otrzymałem następującą sytuację:
+wykonanie komendy ping w pc1 i pc3 tak aby widziały pc0 przebiegało pomyślnie
+pc0 dla komendy ping poprawnie pokazywało wynik tylko dla routa który był ustawiony na default
+dla tego drugiego komunikat brzmiał 'Destination Host Unreachable'
+czy to poprawne zachowanie? jeśli tak to dlaczego?
+pc1 i pc3 nie widziały się wzajemnie
+
