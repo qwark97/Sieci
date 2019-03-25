@@ -69,7 +69,8 @@ ip
 |               |   ``ip link set enp0s3 up``   | włącza interfejs enp0s3                           |
 |   ``route``   |   ``ip route show ``          | pokazuje wszystkie routy                          |
 |               |   ``ip route add``            | dodaje do tablicy routing np: ``ip route add default via 10.0.10.1 dev enp0s3``|
-|   ``maddr``   |   ``ip route get``            | sprawdzenie gdzie konkretny adres zostanie wysłany np: ``ip route get 8.8.8.8`` |
+|               |   ``ip route get``            | sprawdzenie gdzie konkretny adres zostanie wysłany np: ``ip route get 8.8.8.8`` |
+|   ``maddr``   |               |  |
 |   ``neigh``   |  | |
 |   ``help``    |  | |
 
