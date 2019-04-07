@@ -130,7 +130,7 @@ routing
 Zadanie
 ------------
 
-![zadanie 5](obr.jpg)
+![zadanie 5](pobrane.jpg)
 
 1.
    * Przygotuj konfigurację sieci zgodnie z powyższym diagramem
