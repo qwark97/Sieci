@@ -130,7 +130,7 @@ routing
 Zadanie
 ------------
 
-![zadanie 5](over_network.svg)
+![zadanie 5](![pobrane](https://user-images.githubusercontent.com/37438072/55688826-93627c80-597d-11e9-97b6-317e2e6353b9.jpg))
 
 1.
    * Przygotuj konfigurację sieci zgodnie z powyższym diagramem
