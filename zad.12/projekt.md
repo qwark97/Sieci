@@ -1,3 +1,6 @@
+## Zadanie 12
+![diagram](diag12.svg)
+
 Tablica routingu na przykładzie poziomu 0:
 
 
